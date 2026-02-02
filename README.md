@@ -45,6 +45,7 @@ with a strong interest in React, backend APIs, and clean, maintainable code.
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Render" src="https://img.shields.io/badge/-Render-0ABF53?style=flat-square&logo=render&logoColor=white" />
 
+<img alt="GSAP" src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
