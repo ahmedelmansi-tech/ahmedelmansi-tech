@@ -51,7 +51,7 @@ with a strong interest in React, backend APIs, and clean, maintainable code.
 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" />
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" />
 </p>
 
 ---
